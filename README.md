@@ -1,6 +1,9 @@
 # Assets-Ownerships-Vulnerabilities Mapping 
 
-**Description:** This project aims to pull data from multiple sources and map it together and present it in a visualised form. 
+**Description:** This project aims to pull data from multiple sources and map it together and present it in a visualised form.
+Sources of data include: assets' metadata, ownership, labels, infrastructure (cloud,on-premise) information, and data from security tool (Qualys) as well data from ServiceNow
+
+**Objective:** To identify and highlight on internal systems that contain high security issues, exposed to the Internet and be able to show who owns them. 
 
 **Author(s):** dtaler & bplaxco
 
@@ -12,7 +15,7 @@
 ![image info](image-overview.png)
 
 
-**Results - GSheets:**
+**Results - GSheets - Accounts:**
 
 ![image info](image-accounts.png)
 
