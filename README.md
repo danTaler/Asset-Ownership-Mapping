@@ -7,7 +7,7 @@ Sources of data include: assets' metadata, ownership, labels, infrastructure (cl
 
 **Author(s):** dtaler & bplaxco
 
-**Data Retention Policy:** During runtime, data is stored in SQLITE in-memory and gets destroyed when execution finishes. Results of the data are can be pushed to GSheets and Splunk.
+**Data Retention Policy:** During runtime, data is stored in SQLITE in-memory and gets destroyed when execution finishes. Results of the data can be pushed to GSheets and Splunk.
 
 **High-level Arch Design:**
 
