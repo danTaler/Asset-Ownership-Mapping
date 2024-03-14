@@ -1,0 +1,17 @@
+*.egg-info/
+*.log
+*.pyc
+.coverage
+.project
+.pydevproject
+.pytest_cache/
+.settings/
+__pycache__/
+build/
+dependency-check-report.html
+dist/
+htmlcov/
+instance/
+venv/
+wheelhouse/
+*.db

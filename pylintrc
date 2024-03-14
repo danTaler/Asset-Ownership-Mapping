@@ -1,0 +1,12 @@
+[TYPECHECK]
+ignored-modules = ldap
+disable =
+  broad-except,
+  duplicate-code,
+  invalid-name,
+  missing-class-docstring,
+  missing-docstring,
+  missing-function-docstring,
+  missing-module-docstring,
+  too-few-public-methods,
+  useless-object-inheritance
