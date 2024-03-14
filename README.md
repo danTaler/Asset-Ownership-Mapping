@@ -1,11 +1,10 @@
 # Assets-Ownerships-Vulnerabilities Mapping 
 
-**Description:** This project is intended to be opensource @ Github.com
+**Description:** This project aims to pull data from multiple sources and map it together and present it in a visualised form. 
 
 **Author(s):** dtaler & bplaxco
 
-**Data Retention Policy:** Currently N/A (it only forwards to qualys)
-
+**Data Retention Policy:** During runtime, data is stored in SQLITE in-memory and gets destroyed when execution finishes. Results of the data are can be pushed to GSheets and Splunk.
 
 **High-level Arch Design:**
 
